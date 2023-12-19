@@ -1,0 +1,158 @@
+
+                   /*header section starting*/
+
+.header{ 
+       background-color:#fcdb00;
+	   width:100%;
+	   padding:50px 0 100px;
+}
+
+.logo{
+	display: inline-block;
+}
+
+.navbar ul{
+	display:inline-block;
+}
+
+.navbar ul li {
+	display:inline-block;
+	margin-left:18px;
+}
+
+.navbar li a{
+	padding:10px 15px;
+	color:#010101;
+	font-weight:bold;
+    font-size:20px;
+    height: 47px;
+    display: inline-block;
+}
+
+
+.para-info{
+	color:#555555;
+	font-size:16px;
+	font-weight:normal;
+	margin-bottom:40px;
+}
+
+.social-icons li{
+	display:inline-block;
+	margin-right:40px;
+}
+
+.social-icons li a i{
+	font-size:40px;
+}
+
+.social-icons li a{
+	color:#010101;
+}
+
+                /*header section end*/
+				
+				
+				/*feature section start*/
+				
+.feature{ 
+       background-color:#ffffff;
+	   width:100%;
+	   padding:120px 0 70px;
+}
+
+.icon i{
+	font-size:40px;
+	color:#010101;
+}
+
+.thumbheading{
+	font-size:22px;
+	color:#010101;
+	font-weight:normal;
+	margin-bottom:15px;
+}
+
+.thumbpara{
+	font-size:16px;
+	color:#898989;
+	font-weight:normal;
+	margin-bottom:90px;
+	
+}
+
+
+               /*feature section end*/
+			   
+			   
+
+                    /*footer section start*/
+		
+.footer{
+	background-color:#010101;
+	color:white;
+	width:100%;
+	padding:90px 0 140px;
+}
+
+.footer .pre-heading{
+	color:#fcdb00
+}
+
+.footer .sec-heading{
+	color:#898989;
+	margin-bottom:45px;
+}
+
+.email, .submitbtn{
+	height:50px;
+	border-radius:5px;
+	outline:none;
+}
+
+.email{
+	width:calc(100% - 160px);
+	padding:0 25px;
+	border:0px;
+}
+
+.submitbtn{
+	width:125px;
+	cursor:pointer;
+	margin-left:20px;
+	border:#fcdb00;
+	color:#010101;
+	background-color:#fcdb00;
+	text-transform:uppercase;
+	font-weight:bold;
+	font-size:16px;
+	transition:all 0.7s ease-in-out;
+}
+
+.submitbtn:hover,
+.submitbtn:active,
+.submitbtn:focus{
+	background-color: #010101;
+	color: #fcdb00;
+	border:2px solid #fcdb00;
+}
+
+.footer .social-icons li a {
+	color:#fcdb00;
+}
+ 
+.footerlinks a,
+.footerlinks a:link,
+.footerlinks a:visited,
+.footerlinks li{
+	color:#ffffff;
+	font-style:normal;
+}
+
+
+
+
+
+
+
+
